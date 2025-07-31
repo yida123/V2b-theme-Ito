@@ -4,6 +4,8 @@
 
 Ito（糸）是一个基于 V2board 的前后端分离静态主题。
 设计简洁、轻量，仅保留客户端下载、套餐购买、邀请与个人中心等核心功能，适合对页面功能需求统一、无需过多扩展的场景。
+快速反馈：@dyaogroup
+在线体验：https://v2btheme-ito.vercel.app/
 
 ---
 
@@ -115,4 +117,4 @@ window.settings = {
 对应文件：`PaymentService.php`
 
 找到 `'return_url'` 修改 `=>` 后的内容  
-修改为：`'return_url' => $_SERVER["HTTP_ORIGIN"] + "/profile",`
+修改为：`'return_url' => $_SERVER["HTTP_ORIGIN"] . "/profile",`
