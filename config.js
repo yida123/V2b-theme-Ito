@@ -1,6 +1,6 @@
 window.settings = {
     // API
-    api: "https://v2b.haruka.cloud",
+    api: "https://api01.dogssr.sbs",
     // 站点名称
     title: 'Demo App',
     // 站点描述
