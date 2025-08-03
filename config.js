@@ -2,13 +2,13 @@ window.settings = {
     // API
     api: "https://api01.dogssr.sbs",
     // 站点名称
-    title: 'Demo App',
+    title: '狗云加速器',
     // 站点描述
     description: '连接全世界',
     // 站点介绍 
     introduction: '我们是一个追求更可靠、安全、高效且高性价比的互联网接入方案。',
     // Crisp 客服系统网站 ID
-    crisp_id: '',
+    crisp_id: ''63213e79-2ff9-4ff5-9d72-793fc5d94a6',
     // 客户端配置，只能修改 link 和 items的true/false
     clients: [
         {
@@ -21,7 +21,7 @@ window.settings = {
         },
         {
             name: "Android",
-            link: "https://apps.apple.com/app/id1234567890",
+            link: "https://down.dogssr.sbs/cmfa-2.11.15-meta-arm64-v8a-release.apk",
             items: {
                 "Clash Meta": true,
                 FlClash: true,
@@ -29,7 +29,7 @@ window.settings = {
         },
         {
             name: "Windows",
-            link: "https://apps.apple.com/app/id1234567890",
+            link: "https://dogssr-1329938531.cos.ap-guangzhou.myqcloud.com/Clash.Verge_2.3.2_x64-setup.exe",
             items: {
                 "Clash Verge": true,
                 FlClash: true,
@@ -37,7 +37,7 @@ window.settings = {
         },
         {
             name: "Mac OS",
-            link: "https://apps.apple.com/app/id1234567890",
+            link: "https://dogssr-1329938531.cos.ap-guangzhou.myqcloud.com/Clash.Verge_2.3.2_aarch64.dmg",
             items: {
                 "Clash Verge": true,
                 FlClash: true,
