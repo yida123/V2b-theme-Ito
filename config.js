@@ -8,7 +8,7 @@ window.settings = {
     // 站点介绍 
     introduction: '我们是一个追求更可靠、安全、高效且高性价比的互联网接入方案。',
     // Crisp 客服系统网站 ID
-    crisp_id: ''63213e79-2ff9-4ff5-9d72-793fc5d94a6',
+    crisp_id: '63213e79-2ff9-4ff5-9d72-793fc5d94a6',
     // 客户端配置，只能修改 link 和 items的true/false
     clients: [
         {
